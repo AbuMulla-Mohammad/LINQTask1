@@ -1,0 +1,14 @@
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\bin\Debug\net8.0\Task1LINQ.exe
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\bin\Debug\net8.0\Task1LINQ.deps.json
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\bin\Debug\net8.0\Task1LINQ.runtimeconfig.json
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\bin\Debug\net8.0\Task1LINQ.dll
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\bin\Debug\net8.0\Task1LINQ.pdb
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\Task1LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\Task1LINQ.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\Task1LINQ.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\Task1LINQ.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\Task1LINQ.dll
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\refint\Task1LINQ.dll
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\Task1LINQ.pdb
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\Task1LINQ.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\Full stack course\Back-End\LINQ\Task1LINQ\obj\Debug\net8.0\ref\Task1LINQ.dll
